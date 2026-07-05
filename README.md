@@ -37,7 +37,7 @@ The project includes complete ML workflow:
 
 ## 🏠 Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/home.png)
 
 
 ## ✅ Real News Prediction
