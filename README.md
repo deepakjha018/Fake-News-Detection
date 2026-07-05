@@ -8,7 +8,9 @@
 
 ## 📌 Overview
 
-**TruthGuard AI** is an end-to-end Machine Learning application designed to classify news articles as **Fake News** or **Real News** using Natural Language Processing (NLP).
+**TruthGuard AI** is an end-to-end Machine Learning application designed to classify news articles as **Fake** or **Real** by analyzing textual patterns using Natural Language Processing (NLP).
+
+The system uses Machine Learning techniques to understand linguistic features and writing patterns present in news articles.
 
 The system processes raw news text, extracts meaningful features using **TF-IDF Vectorization**, and predicts authenticity using a trained **Linear Support Vector Machine (SVM)** model.
 
@@ -27,7 +29,16 @@ The project includes complete ML workflow:
 
 # 🚀 Live Demo
 
-🔗 Streamlit App: Coming Soon
+Experience TruthGuard AI here:
+
+🔗 Live Application:
+
+https://fake-news-detection-vk18.streamlit.app/
+
+
+🔗 GitHub Repository:
+
+https://github.com/deepakjha018/Fake-News-Detection
 
 
 ---
@@ -235,6 +246,21 @@ Total Records:
 
 **44,898 news articles**
 
+
+---
+
+---
+
+# 🌐 Deployment
+
+The application is deployed using Streamlit Cloud.
+
+Deployment Features:
+
+- Interactive Web Interface
+- Real-time News Classification
+- Cloud Hosted ML Model
+- User Friendly Prediction System
 
 ---
 
